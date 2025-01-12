@@ -7,3 +7,7 @@ This is my project repo
 Second page images
 NEWSE.md
 
+mypdf
+
+![Project Screenshot](https://github.com/RameshJaiswal/appdeploykubernetesaws/blob/f5d662a9c6661e9a09c5def4f458801aec85497a/NEWSE.pdf)
+
